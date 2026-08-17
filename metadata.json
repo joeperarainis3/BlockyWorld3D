@@ -1,0 +1,6 @@
+{
+  "name": "Blocky World 3D",
+  "description": "A Roblox-inspired 3D kids game featuring Rainbow Obby obstacle courses, Studio Course Block Building, Google Drive cloud saves, course blueprint sharing & source code export, Pet Simulator egg hatching, Candy Tycoon, Lava Survival, avatar customization, and emotes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
